@@ -11,7 +11,6 @@ class Dog:
 
 
 dog = Dog('willie', 6)
-
 print(dog.name)
 print(dog.age)
 dog.roll()
